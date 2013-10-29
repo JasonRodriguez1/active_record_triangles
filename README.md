@@ -1,4 +1,4 @@
-Traingle Calculator (active record)
+Triangle Calculator (active record)
 =======================
 
 This is the Triangles app in Active Record!
